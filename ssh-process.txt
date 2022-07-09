@@ -1,0 +1,2 @@
+ssh-keygen
+Always all ssh keys are generating in users location only (Windows/linux/unix)
